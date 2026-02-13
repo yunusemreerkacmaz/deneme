@@ -1,1 +1,3 @@
 Giriş sayfası yapıldı.
+
+Profil sayfasına yönedirme yapıldı.
