@@ -567,4 +567,10 @@ git remote set-url origin https://yeni-adres.git
 + *mevcut olan bir uzak depo adresini (URL) tamamen değiştirmek/güncellemek ise --add veya --push takılarını kullanmana gerek yok.*
 
  
+---
 
+```
+git rm --cached şifreler_dosyası.txt
+```
+
++ *şifreler_dosyası.txt oluşturup yanlışlıkla .gitignore'dosyasına eklemeden pushladıysan ve github'ta görüyorsan dosyanın github'ta görünmesini istemiyorsan yukarıdaki kodu yaz çünkü dosya önceden dosyayı gördüğü için zorla kendinden kaldırmasını söylemelisin sadece .gitignore'a yazmak yetmmiyor*
