@@ -433,7 +433,7 @@ git remote add origin https:// Token@github.com/kullanıcı adı/repo adı.git
 ```
 + *Yukarıdaki kodu kullanman gerekir ve aradaki @ işaretini unutma*
 
- 
+
 ##### Örnek 
 
 modalife@Huseyin-MacBook-Air api % git remote -v
@@ -451,7 +451,7 @@ modalife@Huseyin-MacBook-Air api % git remote -v
 ```
 git remote -v
 ```
-+ *Projenin hangi adrese bağlı olduğunu unutursan klasörün içindeyken şunu yaz: Hangi hesaba bağlı olduğunda görünür* 
++ *Projenin hangi adrese bağlı olduğunu unutursan klasörün içindeyken şunu yaz: Hangi hesaba bağlı olduğunda görünür*
 
 
 ```
@@ -469,7 +469,7 @@ git remote remove origin
 + *Sıfırdan Başlıyorsan (Create a new repository): (origin yazan yere istediğin ismi verebilirsin bağlantı adresinin adı diye düşünebilirsin)*
 
 ```
- git init
+git init
 ```
 
 ```
