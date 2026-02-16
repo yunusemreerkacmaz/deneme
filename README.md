@@ -16,7 +16,7 @@ git config user.name
 
 
 ```
-git config - - global user. email yee@gmail.com
+git config -- global user. email yee@gmail.com
 ```
 + *email oluşturmayı sağlar.Tüm oluşturduğun git işlemlerinde bu email görünür ve örneğin Modalife hesabına girdin bir repoya commit atarsan bu email görünür.*
 
